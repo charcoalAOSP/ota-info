@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1786713406,
+    "files": [
+      {
+        "filename": "charcoalAOSP-Hibana_panther-20260814.zip",
+        "os_patch_level": "2026-08-05",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4668:187904,payload.bin:4668:3031775789,payload_properties.txt:3031780515:156",
+        "sha256": "03c6b1b4f51a4003f0dc01d7b1097fbe9cf0df517e1138e05aba7feb9bfc6f72",
+        "size": 3031783951,
+        "url": "https://drive.usercontent.google.com/download?id=1RYOWy3-BAp4JZfUH0ZL9CnkeY75QvCjY&export=download&confirm=t&uuid=94e1994c-4c11-4a80-99f9-d1f0fef0076c&at=AFYLz4Oi9AQZdRIgwWzkyKePMSO_%3A1786511034019"
+      }
+    ],
+    "type": "release"
+    "version": "Hibana"
+  }
+]
