@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1786752003,
+    "datetime": 1786886524,
     "files": [
       {
-        "filename": "charcoalAOSP-Hibana_panther-20260815-delta.zip",
+        "filename": "charcoalAOSP-Hibana_panther-20260816-delta.zip",
         "os_patch_level": "2026-08-05",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:5717:4136848,payload.bin:5717:58843655,payload_properties.txt:58849430:155,apex_info.pb:2866:1989,care_map.pb:4902:768,metadata:69:773,metadata.pb:910:1908",
-        "sha256": "dced6b441db18c4a80a18522653088dac7cf96217ade3633a4fce9bb0eb917f7",
-        "size": 58852865,
-        "url": "https://github.com/charcoalAOSP/ota-info/releases/download/20260815/charcoalAOSP-Hibana_panther-20260815-delta.zip"
+        "ota_property_files": "payload_metadata.bin:5715:887536,payload.bin:5715:19639896,payload_properties.txt:19645669:154,apex_info.pb:2864:1989,care_map.pb:4900:768,metadata:69:772,metadata.pb:909:1907",
+        "sha256": "cf534258b678efe9a605b3d3e12dbc7beb4eee6ab7f63a705c78a202ad9aa09f",
+        "size": 19649103,
+        "url": "https://github.com/charcoalAOSP/ota-info/releases/download/20260816/charcoalAOSP-Hibana_panther-20260816-delta.zip"
       }
     ],
     "type": "release"
